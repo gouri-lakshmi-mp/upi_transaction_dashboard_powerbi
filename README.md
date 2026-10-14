@@ -41,7 +41,7 @@ Power BI (Power Query, DAX)
 
 
 
-![Growth and Trends](page2_UPI_Dasboard.png)
+![Growth and Trends](page2_UPI_Dashboard.png)
 
 
 
