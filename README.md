@@ -36,12 +36,12 @@ Power BI (Power Query, DAX)
 ## Dashboard Preview
 
 
-![UPI Dashboard](page2_UPI_Dashboard.png)
+![UPI Dashboard](page1_UPI_Dashboard.png)
 
 
 
 
-![Growth and Trends](page1_UPI_Dasboard.png)
+![Growth and Trends](page2_UPI_Dasboard.png)
 
 
 
